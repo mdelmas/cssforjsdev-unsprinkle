@@ -23,10 +23,10 @@ const Hero = () => {
         />
         <HeroImage
           src="/images/hero-img.jpg"
-          alt="Header image - a cat with blue eyes looking straight at the camera"
+          alt="Example of the image available on this site - a cat with blue eyes looking straight at the camera"
         />
       </picture>
-      <Swoop src="/swoop.svg" />
+      <Swoop src="/swoop.svg" alt="" />
     </Wrapper>
   );
 };
